@@ -9,8 +9,8 @@ function increment() {
 }
 
 function save() {
-    let countStr = "Day " + Day + ": " + count  + "\n";
-    Day++;
+    let countStr = "Day " + day + ": " + count  + "\n";
+    day++;
     saveEl.textContent += countStr;
     countEl.textContent = 0;
     count = 0;
