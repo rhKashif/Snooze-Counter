@@ -18,7 +18,7 @@ function save() {
 
 const reset = () =>{
     count = 0;
-    day = 0;
+    day = 1;
     saveEl.textContent = "Snooze History:";
     countEl.textContent = 0;
 }
