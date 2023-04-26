@@ -1,6 +1,6 @@
 # coa78499390d47332a9110e84
 
-## This web application has been deployed on app.netlify.com(https://app.netlify.com/teams/rhkashif/overview)
+
 
 Quick start:
 
@@ -21,3 +21,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+## This web application has been deployed on app.netlify.com(https://app.netlify.com/teams/rhkashif/overview)
