@@ -22,4 +22,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 Happy Coding!
 
-## This web application has been deployed on app.netlify.com(https://app.netlify.com/teams/rhkashif/overview)
+## This web application has been deployed on app.netlify.com(https://app.netlify.com/)
